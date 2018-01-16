@@ -1,0 +1,14 @@
+page-addexpence {
+    ion-header{
+        .toolbar-background-md {
+            border-color: #3F51B5;
+            background: #3F51B5;            
+        }
+        .toolbar-title-md {            
+            color: #ffffff;
+        }
+    }
+    ion-content.content-md {        
+        background-color: #d2d9ff;
+    }
+}
